@@ -39,8 +39,7 @@ noetic_pepper
 
 Specifies the Docker image from which the container will be launched. In this case, the container will be based on the Docker image named noetic_pepper. It's my container on which I did all the installation.
 Now you should have something like that.
-![Terminal image](images/Screenshot_from_2024-07-11_13-32-55.png)
-
+![Terminal image](https://github.com/ValentinPFR/Intership_Defence_Report/blob/master/images/Screenshot_from_2024-07-11_13-32-55.png)
 ## How to run the simulation
 Now split the terminal in two and tape thoses lines in both of them.
 ```
