@@ -48,7 +48,7 @@ sudo apt install ros-indigo-pepper-gazebo-plugin
 catkin_make
 source devel/setup.bash
 ```
-Now we have all we need to launch the simulation, if you want a detailed use guide of it just lokk at [here](https://github.com/ValentinPFR/Intership_Defence_Report/blob/master/How%20to%20use%20the%20bridge/README.md)
+Now we have all we need to launch the simulation, if you want a detailed use guide of it just look at [here](https://github.com/ValentinPFR/Intership_Defence_Report/blob/master/How%20to%20use%20the%20bridge/README.md)
 
 Here I will just tell you the main differencies.
 So you launch gazeno with this command and start the simulation with the start button(bottom left)
