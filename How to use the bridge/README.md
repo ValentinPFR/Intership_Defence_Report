@@ -47,14 +47,14 @@ cd catkin_ws/
 source devel/setup.bash 
 
 ```
-![Terminal image](images/Screenshot_from_2024-07-11_13-43-36.png)
+![Terminal image](https://github.com/ValentinPFR/Intership_Defence_Report/blob/master/images/Screenshot_from_2024-07-11_13-43-36.png)
 
 Now in one of those terminal you will launch that command line.
 ```
 roslaunch pepper_gazebo_plugin pepper_gazebo_plugin_Y20.launch
 ```
 It will open Gazebo and you will click on the start button at the bottom left of the screen (in red on the next sreenshot)
-![Terminal image](images/Screenshot_from_2024-07-11_13-48-10.png)
+![Terminal image](https://github.com/ValentinPFR/Intership_Defence_Report/blob/master/images/Screenshot_from_2024-07-11_13-48-10.png)
 
 Once you have click on the start button go run that command in the second terminal.
 ```
@@ -62,7 +62,7 @@ roslaunch pepper_moveit_config moveit_planner.launch
 ```
 (if you forget to launch the simulation before runningthis line Rviz will just not open)
 
-![Terminal image](images/Screenshot_from_2024-07-11_14-08-24.png)
+![Terminal image](https://github.com/ValentinPFR/Intership_Defence_Report/blob/master/images/Screenshot_from_2024-07-11_14-08-24.png)
 So now you can plan any movment you want by choosing the planning group you want as well as the start state and the goal state.
 But you can't choosean accurate trajectory here it's just random trajectory.
 If you click on plan you will see a preview of the trajectory in Rviz.
@@ -72,7 +72,7 @@ And if you click on Plan and execute you will have both the preview on Rviz and 
 If you want to set up Pepper in a particular position you have to go to the joints pane and you will have the joints correspondig at the planning group you chose before.
 
 For example here the selected planning group is right arm so I can set several parameters to obtain the position I want.
-![Terminal image](images/Screenshot_from_2024-07-11_15-06-27.png)
+![Terminal image](https://github.com/ValentinPFR/Intership_Defence_Report/blob/master/images/Screenshot_from_2024-07-11_15-06-27.png)
 
 if you want a visual support here is a [video](2024-07-11_11-10-15.mkv) of me doing this tutorial.
 
