@@ -50,4 +50,4 @@ docker run -it --rm \
 ```
 For using the simulation you can check out this [guide](https://github.com/ValentinPFR/Intership_Defence_Report/tree/master/How%20to%20use%20the%20bridge#how-to-run-the-simulation).
 
-Or check this [video](Bridge_installation_.mp4)
+Or check this [video](https://github.com/ValentinPFR/Intership_Defence_Report/blob/master/bridge-installation_rZYBErrQ.mp4)
