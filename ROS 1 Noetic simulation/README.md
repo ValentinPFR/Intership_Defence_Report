@@ -100,5 +100,5 @@ cd catkin_ws/
 source devel/setup.bash
 roslaunch pepper_moveit_config moveit_planner.launch
 ```
-To understand in details how the simulation works just check the 'How to run the simulation' part of this [tutorial](https://gitlab-fi.ostfalia.de/hcr-lab/simulation/peppersimulation/-/blob/master/Final%20part%20how%20to%20use%20the%20bridge/README.md#how-to-run-the-simulation:~:text=How%20to%20run%20the%20simulation)
+To understand in details how the simulation works just check the 'How to run the simulation' part of this [tutorial]([https://gitlab-fi.ostfalia.de/hcr-lab/simulation/peppersimulation/-/blob/master/Final%20part%20how%20to%20use%20the%20bridge/README.md#how-to-run-the-simulation:~:text=How%20to%20run%20the%20simulation](https://gitlab-fi.ostfalia.de/hcr-lab/simulation/peppersimulation/-/tree/master/How%20to%20use%20the%20bridge#how-to-run-the-simulation))
 
