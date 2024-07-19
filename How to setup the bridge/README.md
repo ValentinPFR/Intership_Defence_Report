@@ -48,6 +48,6 @@ docker run -it --rm \
     noetic_for_the_tutorial
 
 ```
-For using the simulation you can check out this [guide](https://gitlab-fi.ostfalia.de/hcr-lab/simulation/peppersimulation/-/blob/master/Final%20part%20how%20to%20use%20the%20bridge/README.md#how-to-run-the-simulation:~:text=How%20to%20run%20the%20simulation).
+For using the simulation you can check out this [guide](https://github.com/ValentinPFR/Intership_Defence_Report/tree/master/How%20to%20use%20the%20bridge#how-to-run-the-simulation).
 
 Or check this [video](Bridge_installation_.mp4)
