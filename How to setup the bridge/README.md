@@ -31,6 +31,7 @@ docker ps
 ```
 We spot the ID cause we need it for the next command in our case here it's b12bddfa1a80.
 ![Terminal image](https://github.com/ValentinPFR/Intership_Defence_Report/blob/master/images/Screenshot_from_2024-07-17_15-06-30.png)
+
 So we use the following line to save the docker image.
 ```
 docker commit b12bddfa1a80  noetic_for_the_tutorial
