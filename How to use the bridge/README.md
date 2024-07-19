@@ -74,7 +74,7 @@ If you want to set up Pepper in a particular position you have to go to the join
 For example here the selected planning group is right arm so I can set several parameters to obtain the position I want.
 ![Terminal image](https://github.com/ValentinPFR/Intership_Defence_Report/blob/master/images/Screenshot_from_2024-07-11_15-06-27.png)
 
-if you want a visual support here is a [video](2024-07-11-11-10-15_G3gG2XP3.mp4) of me doing this tutorial.
+if you want a visual support here is a [video](https://github.com/ValentinPFR/Intership_Defence_Report/blob/master/2024-07-11-11-10-15_G3gG2XP3.mp4) of me doing this tutorial.
 
 
 I didn't try to do it but you can did the same on a real robot as explain in that tutorial that I use during this project: https://github.com/ros-naoqi/pepper_moveit_config
