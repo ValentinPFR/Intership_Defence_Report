@@ -65,14 +65,14 @@ We will have a pop up asking for the installation path now:
 Be careful it's important to put it in the catkin_ws/src/pepper_meshes
 Like this:
 Now if we write this the Rviz window will open :
-![Terminal image](images/Screenshot_from_2024-07-12_16-25-43.png)
+![Terminal image](https://github.com/ValentinPFR/Intership_Defence_Report/blob/master/images/Screenshot_from_2024-07-12_16-25-43.png)
 
 ```
 sudo apt-get install ros-noetic-gazebo-ros-pkgs
 source devel/setup.bash 
 roslaunch pepper_moveit_config demo.launch
 ```
-![Terminal image](images/Screenshot_from_2024-07-12_06_38_15.png)
+![Terminal image](https://github.com/ValentinPFR/Intership_Defence_Report/blob/master/images/Screenshot_from_2024-07-12_06_38_15.png)
 To launch the gazebo simulation type this line:
 ```
 roslaunch pepper_gazebo_plugin pepper_gazebo_plugin_Y20.launch
@@ -81,7 +81,7 @@ roslaunch pepper_gazebo_plugin pepper_gazebo_plugin_Y20.launch
 If Pepper's arms are falling down in Gazebo try this procedure to fix it:
 
 If they are not just skip that part.
-![Terminal image](images/test.png)
+![Terminal image](https://github.com/ValentinPFR/Intership_Defence_Report/blob/master/images/test.png)
 
 ```
 sudo rosdep init
