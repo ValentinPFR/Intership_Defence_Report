@@ -38,7 +38,7 @@ Now if we write this the Rviz window will open :
 ```
 roslaunch pepper_moveit_config demo.launch
 ```
-![Terminal image](images/Screenshot_from_2024-07-12_06_38_15.png)
+![Terminal image](https://github.com/ValentinPFR/Intership_Defence_Report/blob/master/images/Screenshot_from_2024-07-12_06_38_15.png)
 
 Then we have to install the package we need to have the Gazebo simulation working:
 ```
@@ -58,12 +58,12 @@ roslaunch pepper_gazebo_plugin pepper_gazebo_plugin_Y20.launch
 #Be sure you have start the simulation with the bottom left button before.
 roslaunch pepper_moveit_config moveit_planner.launch
 ```
-![Terminal image](images/Screenshot_from_2024-07-12_13-11-31.png)
+![Terminal image](https://github.com/ValentinPFR/Intership_Defence_Report/blob/master/images/Screenshot_from_2024-07-12_13-11-31.png)
 The main difference is that you need to go Planning request --> Planning group to choose the planning group.
 
 My VM still available on the NUC1 in the lab.
 It's named "Ubuntu Trusty ros indigo".
 Username:ostfalia
 Password:ostfalia
-![Terminal image](images/Screenshot_from_2024-07-12_13-35-19.png)
+![Terminal image](https://github.com/ValentinPFR/Intership_Defence_Report/blob/master/images/Screenshot_from_2024-07-12_13-35-19.png)
 
